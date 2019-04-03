@@ -114,7 +114,7 @@
                  <li><a href="#" target="_blank"<i class="fab fa-github"></i></a></li>
                  <li><a href="#" target="_blank"<i class="fab fa-medium"></i></a></li>
                  </ul>
-     					    <a href="hng.tech/intern/codetillamgone" class="btn-view">view profile</a>
+     					    <a href="../intern/codetillamgone" class="btn-view">view profile</a>
      				</div>
      			</div>
      		</div>
